@@ -1,0 +1,8 @@
+{
+  "name": "swastikllc Talent Management",
+  "description": "A comprehensive talent management solution for Super Admins, Franchises, Employers, and Job Seekers to track selection progress and manage global recruitment services.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
